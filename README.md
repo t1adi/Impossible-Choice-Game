@@ -2,7 +2,7 @@
 
 This project is designed as a playful prank website where users must make a difficult choice between YES and NO. The experience includes moving buttons, funny reactions, custom images, multiple screens and surprise endings.
 
-🔗 **Live Website:**  https://t1adi.github.io/impossible-choice-game/
+🔗 **Live Website:**  https://t1adi.github.io/Impossible-Choice-Game/
 🔗 **GitHub Profile:** https://github.com/t1adi
 
 ---
